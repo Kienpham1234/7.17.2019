@@ -1,12 +1,12 @@
 {
-  "name": "shopinglist",
+  "name": "shoppinglist",
   "version": "1.0.0",
-  "description": "Shoping Desktop App",
-  "main": "index.js",
+  "description": "Shopping Desktop App",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "author": "Pham Vinh Kien",
+  "author": "PHAM Vinh Kien",
   "license": "ISC",
   "dependencies": {
     "electron": "^5.0.7"
